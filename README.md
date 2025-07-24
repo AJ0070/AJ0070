@@ -15,7 +15,7 @@ In my free time, I explore Web3, Rust, and Julia, and compete in coding contests
 
 ---
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 
 ### Languages:
 - C++, Python, Java, JavaScript, HTML, CSS, C, PHP
