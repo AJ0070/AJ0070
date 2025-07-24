@@ -8,7 +8,7 @@
 
 ##  About Me
 
-I'm a Computer Science and Engineering student at Uka Tarsadia University, passionate about open-source, machine learning, and building developer-focused solutions.
+I'm a Computer Science and Engineering student, passionate about open-source, machine learning, and building developer-focused solutions.
 
 I'm currently contributing to projects like **SciML (Symbolics.jl)** and **flexile**, and interning as a **Technical Content Writer at GeeksforGeeks**, where I write articles on Deep Learning and Python.
 
