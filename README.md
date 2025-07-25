@@ -46,7 +46,6 @@ In my free time, I explore Web3, Rust, and Julia, and compete in coding contests
 ##  Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/jash-ambaliya-a11651309)
-- [Instagram](https://instagram.com/jash_070_)
 - [X (Twitter)](https://x.com/jash_0070)
 
 ---
